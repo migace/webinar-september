@@ -1,0 +1,5 @@
+.DS_Store
+
+orders/node_modules/
+dashboard/node_modules/
+root-project/node_modules/
